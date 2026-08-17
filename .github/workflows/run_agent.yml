@@ -21,8 +21,11 @@ jobs:
       - name: Abhängigkeiten installieren
         run: pip install -r requirements.txt
 
-      - name: Agent ausführen
+      - name: Daten-Agent ausführen
         run: python data_agent.py
+
+      - name: Analyse-Agent ausführen
+        run: python analysis_agent.py
 
       - name: Ergebnisse committen
         run: |
