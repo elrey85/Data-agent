@@ -29,7 +29,7 @@ class DataAgent:
             return pd.DataFrame()
 
 
-if _name_ == "_main_":
+if __name__ == "__main__":
     agent = DataAgent()
     symbols = ["AAPL", "MSFT", "TSLA"]
 
