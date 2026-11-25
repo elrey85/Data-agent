@@ -1,4 +1,4 @@
 symbol,last_close,last_rsi,sma_10,sma_20,signal
-AAPL,349.08,63.3,351.27,347.58,Leichter Aufwärtstrend
-MSFT,492.5,40.93,510.2,520.09,Leichter Abwärtstrend
-TSLA,385.46,46.86,380.75,384.49,Leichter Abwärtstrend
+AAPL,,49.83,,,Neutral
+MSFT,,23.37,,,Neutral
+TSLA,,50.07,,,Neutral
